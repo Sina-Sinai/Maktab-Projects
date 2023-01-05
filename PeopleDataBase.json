@@ -1,0 +1,66 @@
+{
+  {
+    "Age": 19,
+    "Contacts": [
+      {
+        "City": null,
+        "Address": null,
+        "Mobile": null
+      }
+    ],
+    "Email": "alisinai850@gmail.com",
+    "Family": "Sinaipour",
+    "Name": "Sina",
+    "Password": "123456",
+    "Rolee": 1,
+    "sexuality": 1
+  },
+  {
+    "Contacts": [
+      {
+        "City": "Tehran",
+        "Address": "Piroozi st, tenth ally, 612",
+        "Mobile": 9124
+      }
+    ],
+    "Email": "Hadibalaii@gmail.com",
+    "Rolee": 0,
+    "Name": "hadi",
+    "Family": "balaii",
+    "Age": 18,
+    "sexuality": 1,
+    "Password": "123456789"
+  },
+  {
+    "Contacts": [
+      {
+        "City": null,
+        "Address": null,
+        "Mobile": null
+      }
+    ],
+    "Email": "maryam_dorchei83@gmail.com",
+    "Rolee": 1,
+    "Name": "Maryam",
+    "Family": "Dorchei",
+    "Age": 18,
+    "sexuality": 2,
+    "Password": "123456"
+  },
+  {
+    "Contacts": [
+      {
+        "City": null,
+        "Address": null,
+        "Mobile": null
+      }
+    ],
+    "Email": "sinasinai123@gmail.com",
+    "Rolee": 1,
+    "Name": "sina",
+    "Family": "sinai",
+    "Age": 19,
+    "sexuality": 1,
+    "Password": "123"
+  }
+}
