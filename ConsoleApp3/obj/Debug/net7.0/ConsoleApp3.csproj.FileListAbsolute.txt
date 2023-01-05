@@ -1,0 +1,15 @@
+E:\Programming\C#-PR\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.exe
+E:\Programming\C#-PR\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.deps.json
+E:\Programming\C#-PR\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.runtimeconfig.json
+E:\Programming\C#-PR\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.dll
+E:\Programming\C#-PR\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.pdb
+E:\Programming\C#-PR\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.AssemblyReference.cache
+E:\Programming\C#-PR\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#-PR\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfoInputs.cache
+E:\Programming\C#-PR\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfo.cs
+E:\Programming\C#-PR\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\Programming\C#-PR\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.dll
+E:\Programming\C#-PR\ConsoleApp3\obj\Debug\net7.0\refint\ConsoleApp3.dll
+E:\Programming\C#-PR\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.pdb
+E:\Programming\C#-PR\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.genruntimeconfig.cache
+E:\Programming\C#-PR\ConsoleApp3\obj\Debug\net7.0\ref\ConsoleApp3.dll

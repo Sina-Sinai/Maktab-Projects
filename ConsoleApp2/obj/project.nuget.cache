@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "toJyg0cEq2VzwzbEc8mvhq7fFXsiz8rSNyZXs61iJfk2qzn0Kw7Gi4CBdCHnqHuTqX4zrv5ma1i7XoFd5/RPDw==",
+  "success": true,
+  "projectFilePath": "E:\\Programming\\C#-PR\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alisi\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
